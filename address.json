@@ -1,0 +1,36 @@
+{
+    "process": "Ragexe.exe",
+    "account": {
+        "id": "0x103F7F8",
+        "player": {
+            "offset": {
+                "name": "0x5B00",
+                "loggedIn": "0x6004",
+                "baseExp": "0x18",
+                "jobExp": "0x30",
+                "baseLvl": "0x38",
+                "jobLvl": "0x40",
+                "baseReq": "0x20",
+                "jobReq": "0x2C"
+            },
+            "pet": {
+                "offset": {
+                    "name":"0x5F0",
+                    "loyalty":"0x5BC",
+                    "hunger":"0x5C4",
+                    "out":"0x5B8"
+                }
+            },
+            "homunculus": {
+                "offset": {
+                    "name":"0x373C",
+                    "loyalty":"0x3794",
+                    "hunger":"0x37A4",
+                    "exp":"0x379C",
+                    "expReq":"0x37A0",
+                    "out":"0x37C8"
+                }
+            }
+        }
+    }
+}
